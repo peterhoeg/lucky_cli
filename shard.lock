@@ -1,5 +1,6 @@
 version: 1.0
 shards:
   teeplate:
-    github: mosop/teeplate
-    version: 0.7.0
+    github: luckyframework/teeplate
+    version: 0.8.0
+
