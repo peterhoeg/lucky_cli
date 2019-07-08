@@ -12,3 +12,7 @@ dependencies:
   teeplate:
     github: mosop/teeplate
     version: ~> 0.7
+
+targets:
+  lucky:
+    main: src/lucky.cr
